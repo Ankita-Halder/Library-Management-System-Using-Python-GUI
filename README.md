@@ -30,15 +30,3 @@ JSON – For storing data permanently without using a traditional database
  ┣ 📜 data.json       # Auto-generated data file for books/members/issued records
  ┗ 📜 README.md       # Project description 
 
-🧪 How to Run:-
-Make sure you have Python installed (preferably 3.x)
-Open the project in Google Colab or your Python IDE
-Run the code (main.py)
-The GUI window will appear for interaction
-
-🚀 Future Improvements:-
-Add a search feature for books and members
-Implement SQLite or MySQL for more robust storage
-Add login system for admin access
-Add due date reminders and fine calculations
-
