@@ -25,10 +25,7 @@ Tkinter – For building the graphical user interface (GUI)
 JSON – For storing data permanently without using a traditional database
 
 📁 File Structure:-
-bash
-Copy
-Edit
-📦 Library-Management-System:-
+📦 Library-Management-System
  ┣ 📜 main.py         # Main application code
  ┣ 📜 data.json       # Auto-generated data file for books/members/issued records
  ┗ 📜 README.md       # Project description 
