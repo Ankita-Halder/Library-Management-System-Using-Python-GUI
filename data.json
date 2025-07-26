@@ -1,0 +1,29 @@
+{
+  "books": [
+    {"title": "Introduction to Python", "author": "Guido van Rossum", "isbn": "1001"},
+    {"title": "Learning Data Structures", "author": "Mark Allen Weiss", "isbn": "1002"},
+    {"title": "Artificial Intelligence Basics", "author": "Tom Taulli", "isbn": "1003"},
+    {"title": "Machine Learning with Python", "author": "Sebastian Raschka", "isbn": "1004"},
+    {"title": "Database Management Systems", "author": "Raghu Ramakrishnan", "isbn": "1005"},
+    {"title": "C Programming Language", "author": "Brian Kernighan", "isbn": "1006"},
+    {"title": "Java: The Complete Reference", "author": "Herbert Schildt", "isbn": "1007"},
+    {"title": "Clean Code", "author": "Robert C. Martin", "isbn": "1008"},
+    {"title": "Operating System Concepts", "author": "Silberschatz", "isbn": "1009"},
+    {"title": "Computer Networks", "author": "Andrew S. Tanenbaum", "isbn": "1010"},
+    {"title": "HTML and CSS Design", "author": "Jon Duckett", "isbn": "1011"},
+    {"title": "Software Engineering", "author": "Ian Sommerville", "isbn": "1012"}
+  ],
+  "members": [
+    {"name": "Alice Johnson", "id": "M001"},
+    {"name": "Bob Smith", "id": "M002"},
+    {"name": "Charlie Davis", "id": "M003"},
+    {"name": "Diana Patel", "id": "M004"},
+    {"name": "Ethan Wright", "id": "M005"}
+  ],
+  "issued_books": [
+    {"isbn": "1001", "member_id": "M001"},
+    {"isbn": "1004", "member_id": "M002"},
+    {"isbn": "1007", "member_id": "M004"},
+    {"isbn": "1010", "member_id": "M005"}
+  ]
+}
